@@ -37,7 +37,7 @@ I'm a passionate **Full Stack Developer** with a love for building scalable and 
 <div align="center">
 
 ### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,reactnative,flutter,vue&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,flutter,vue&theme=light" />
 
 ### Backend & Databases  
 <img src="https://skillicons.dev/icons?i=nodejs,php,python,express,fastapi,firebase,supabase,mysql,postgresql,mongodb&theme=light" />
