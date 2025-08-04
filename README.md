@@ -127,7 +127,7 @@ I'm a passionate **Full Stack Developer** with a love for building scalable and 
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Note.png" alt="🎵" width="25" height="25" /> Music + Code | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📖" width="25" height="25" /> Continuous Learner |
 |:---:|:---:|
-| My piano background brings rhythm and structure to my coding | Always reading and exploring new technologies |
+| My piano background brings rhythm and structure to my coding | Always reading and exploring new technologies | Spending time with my lovely wife Nadia.
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Counterclockwise%20Arrows%20Button.png" alt="🔄" width="25" height="25" /> Full-Cycle Thinking | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="🤝" width="25" height="25" /> Collaboration Ready |
 |:---:|:---:|
