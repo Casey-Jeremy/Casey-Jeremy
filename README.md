@@ -170,7 +170,7 @@ I'm a passionate **Full Stack Developer** with a love for building scalable and 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
+### <img src="https://komarev.com/ghpvc/?username=Casey-Jeremy&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
 
 </div>
 
