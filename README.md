@@ -146,7 +146,7 @@ I'm a passionate **Full Stack Developer** with a love for building scalable and 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="💬" width="25" height="25" /> Discussing new technologies and best practices  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="🤝" width="25" height="25" /> Collaborating on interesting projects  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="25" height="25" /> Sharing book recommendations  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Keyboard.png" alt="🎹" width="25" height="25" /> Talking about music and coding and Spending time with my lovely wife Nadia.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Musical%20Keyboard.png" alt="🎹" width="25" height="25" /> Talking about music and coding.
 
 </div>
 
